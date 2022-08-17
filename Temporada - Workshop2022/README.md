@@ -11,10 +11,12 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 📢 Tenemos 11 sesiones en esta primera temporada de talleres
 
 
-
 ![Image text](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG)
- 
 
+
+
+
+## Workshop #1: Preparación y visualización de datos sobre el Dataset: Comparación de calidad de vida por país
 
 <!--
 
