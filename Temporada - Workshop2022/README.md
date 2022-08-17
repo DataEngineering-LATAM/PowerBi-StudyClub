@@ -16,7 +16,8 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 
 
 
-## Workshop #1: Preparación y visualización de datos sobre el Dataset: Comparación de calidad de vida por país
+## Workshop #1: 
+###Preparación y visualización de datos sobre el Dataset: Comparación de calidad de vida por país
 
 <!--
 
