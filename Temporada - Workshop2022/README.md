@@ -19,6 +19,30 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 ## Workshop #1: 
 ##Preparación y visualización de datos sobre el Dataset: Comparación de calidad de vida por país
 
+
+## Workshop #2: 
+##Preparación y visualización de datos sobre el Dataset: Datos abiertos de Airbnb
+
+
+## Workshop #3: 
+##Preparación y visualización de datos sobre el Dataset: Precios de diamantes
+
+
+## Workshop #4: 
+##Preparación y visualización de datos sobre el Dataset: Análisis de datos de las estudiantes
+
+
+## Workshop #5: 
+##Preparación y visualización de datos sobre el Dataset: Carros Clásicos
+
+
+## Workshop #6: 
+##Preparación y visualización de datos sobre el Dataset: Cosas en Reddit
+
+
+## Workshop #7: 
+##Preparación y visualización de datos sobre el Dataset: Financiación Startups 
+
 <!--
 
 🐤 🚀 ⏱️ 📚 🛠️ 🕛 💬 📃 💡 📧 📊 📉 📈 📌 📍 🗓️ 🗓️ 📆 📢 🔔 🎶 ✔️ ☑️ ✅ 🔵 🔴 ⚫️ 🔹 🔺 🔻 🔥 💻 
