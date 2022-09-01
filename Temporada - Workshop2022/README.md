@@ -23,10 +23,13 @@ Preparación y visualización de datos:
 
 * 🛠️ Workshop:  Analizando Pingüinos de la Antártida 🐧 🐧 🐧 
 * [🗒️ Data Set: penguins_raw.csv ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'penguins_raw.csv')
+* 📅 Fecha: Jueves 1 de septiembre
+* 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
+* 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
 
 
-
+<!--
 ## Workshop #1: 
 ##Preparación y visualización de datos sobre el Dataset: Comparación de calidad de vida por país
 
@@ -56,6 +59,7 @@ Preparación y visualización de datos:
 
 ## Workshop #8: 
 ##Preparación y visualización de datos sobre el Dataset: xxxx
+-->
 
 <!--
 
