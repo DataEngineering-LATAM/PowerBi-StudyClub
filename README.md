@@ -16,6 +16,7 @@ Data Engineering LATAM es la comunidad de datos más grande de América Latina c
 La nueva temporada de sesiones del Grupo de estudo de Power BI serán talleres prácticos para añadir conocimiento para aprender Power BI desde la base. Estos talleres combinan la parte teoríca y también la parte práctica (carga, limpieza de datos y la visualización), para aprender como obtener valiosa información a partir de los datos. 
 
 La descripción de que estaremos viendo esta temporada, la puedes encontrar:
+
 📁 Temporada - Workshop2022
 
 
