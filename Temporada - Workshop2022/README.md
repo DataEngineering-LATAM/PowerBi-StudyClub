@@ -9,7 +9,7 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 3. En la sesión se hace paso a paso y se explican los temas acorde al día. 
 
 
- <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG" width="200">
+    <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG" width="200">
 
 <!--
 
