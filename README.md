@@ -10,3 +10,8 @@ Data Engineering LATAM es la comunidad de datos más grande de América Latina c
 * [Facebook](https://www.facebook.com/dataengineeringlatam/ 'Síganos en Facebook')
 * [Website](https://beacons.ai/dataengineeringlatam 'Nuestro website')
 * [Telegram](https://t.me/PowerBIStudyClub 'Telegram')
+
+
+## Nueva Temporada sobre Workshop 
+Iniciamos en Septiembre nuestra sesiones de Workshop de Power BI.   
+Data Engineering LATAM es la comunidad de datos más grande de América Latina cuya misión es promover el talento de la región a través de la difusión de charlas, talleres, grupos de estudio, ayuda colaborativa y la creación de contenido relevante.
