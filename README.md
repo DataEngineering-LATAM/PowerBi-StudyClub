@@ -17,7 +17,7 @@ La nueva temporada de sesiones del Grupo de estudo de Power BI serán talleres p
 
 La descripción de que estaremos viendo esta temporada, la puedes encontrar:
 
-📁 Temporada - Workshop2022
+[📁 Temporada - Workshop2022](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022 'Temporada - Workshop2022')
 
 
 
