@@ -8,16 +8,23 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 2. El archivo de PowerBI ya hecho
 3. En la sesión se hace paso a paso y se explican los temas acorde al día. 
 
-📢 Tenemos 11 sesiones en esta primera temporada de talleres
 
-<img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG" width="100">
+<img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG" width="200">
 
 <!--
 
 ![Image text](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG)
 -->
 
-## Workshop #1: Preparando Motores 
+📢 Tenemos 12 sesiones en esta primera temporada de talleres
+
+## Workshop #1: Preparando Motores 🥁 
+Preparación y visualización de datos:
+
+* 🛠️ Workshop:  Analizando Pingüinos de la Antártida
+* 🗒️ Data Set:  
+
+
 
 
 ## Workshop #1: 
