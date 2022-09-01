@@ -22,7 +22,7 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 Preparación y visualización de datos:
 
 * 🛠️ Workshop:  Analizando Pingüinos de la Antártida
-* 🗒️ Data Set:  [https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida]
+* [🗒️ Data Set:](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida '')
 
 
 
