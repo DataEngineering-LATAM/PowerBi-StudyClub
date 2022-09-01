@@ -10,10 +10,12 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 
 📢 Tenemos 11 sesiones en esta primera temporada de talleres
 
-<a href="url"><img src="[http://url.to/image.png](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG)" align="left" height="48" width="48" ></a>
+<a href="url"><img src="[https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG]" align="left" height="48" width="48" ></a>
+
+<img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG" width="48">
 
 <!--
-<img src="/images/content/24383700/9f5ae8cb5ff501f564e4927884aa83ff.ico" width="48">
+
 ![Image text](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG)
 -->
 
