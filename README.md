@@ -13,5 +13,6 @@ Data Engineering LATAM es la comunidad de datos más grande de América Latina c
 
 
 ## Nueva Temporada sobre Workshop 
-Iniciamos en Septiembre nuestra sesiones de Workshop de Power BI.   
-Data Engineering LATAM es la comunidad de datos más grande de América Latina cuya misión es promover el talento de la región a través de la difusión de charlas, talleres, grupos de estudio, ayuda colaborativa y la creación de contenido relevante.
+La nueva temporada de sesiones del Grupo de estudo de Power BI serán talleres prácticos para añadir conocimiento para aprender Power BI desde la base. Estos talleres combinan la parte teoríca y también la parte práctica (carga, limpieza de datos y la visualización), para aprender como obtener valiosa información a partir de los datos. 
+
+
