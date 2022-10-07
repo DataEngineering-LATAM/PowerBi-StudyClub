@@ -35,8 +35,8 @@ Preparación y visualización de datos:
 ## Workshop #2: 
 ##Preparación y visualización de datos sobre el Dataset: Comparación de calidad de vida por país
 
-* 🛠️ Workshop:   
-* [🗒️ Data Set: ddddd ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'penguins_raw.csv')
+* 🛠️ Workshop: Analizando datos del dataset: Bike Sales
+* [🗒️ Data Set: Bike Sales ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%202:%20Analizando%20Datos%20de%20Ventas%20de%20Bicicletas 'penguins_raw.csv')
 * 📅 Fecha: Martes 11 de octubre 
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
