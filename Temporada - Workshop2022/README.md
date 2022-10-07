@@ -49,7 +49,7 @@ Preparación y visualización de datos
 ##Preparación y visualización de datos
 
 * 🛠️ Workshop: Analizando datos de Airbnb  🕌 🏰 🏩
-* [🗒️ Data Set: Airbnb ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%203:%20Analizando%20datos%20de%20Airbnb' airbnb.csv')
+* [🗒️ Data Set: Airbnb ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%203:%20Analizando%20datos%20de%20Airbnb ' airbnb.csv')
 * 📅 Fecha: Martes 18 de octubre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
@@ -82,7 +82,7 @@ Preparación y visualización de datos
 ##Preparación y visualización de datos
 
 * 🛠️ Workshop:  Analizando datos sobre Carros Clásicos  🚙🚗🚙 
-* [🗒️ Data Set: Carros Clásicos ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'cars.csv')
+* [🗒️ Data Set: Carros Clásicos ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%206:%20Analizando%20datos%20de%20Carros%20Cl%C3%A1sicos 'cars.csv')
 * 📅 Fecha: Martes 1 de noviembre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
