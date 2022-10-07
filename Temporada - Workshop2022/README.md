@@ -37,7 +37,7 @@ Preparación y visualización de datos:
 
 * 🛠️ Workshop:   
 * [🗒️ Data Set: ddddd ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'penguins_raw.csv')
-* 📅 Fecha: Martes 4 de octubre 
+* 📅 Fecha: Martes 11 de octubre 
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
@@ -48,25 +48,45 @@ Preparación y visualización de datos:
 
 * 🛠️ Workshop:   
 * [🗒️ Data Set: ddddd ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'penguins_raw.csv')
-* 📅 Fecha: Martes 11 de octubre
+* 📅 Fecha: Martes 18 de octubre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
-
-
-
-## Workshop #3: 
-##Preparación y visualización de datos sobre el Dataset: Precios de diamantes
-<!--
+---
 
 ## Workshop #4: 
-##Preparación y visualización de datos sobre el Dataset: Análisis de datos de las estudiantes
+##Preparación y visualización de datos sobre el Dataset: Precios de diamantes
 
+* 🛠️ Workshop:   
+* [🗒️ Data Set: ddddd ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'penguins_raw.csv')
+* 📅 Fecha: Martes 18 de octubre
+* 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
+* 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+---
 
 ## Workshop #5: 
+##Preparación y visualización de datos sobre el Dataset: Análisis de datos de las estudiantes
+
+* 🛠️ Workshop:   
+* [🗒️ Data Set: ddddd ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'penguins_raw.csv')
+* 📅 Fecha: Martes 25 de octubre
+* 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
+* 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+---
+
+## Workshop #6: 
 ##Preparación y visualización de datos sobre el Dataset: Carros Clásicos
 
+* 🛠️ Workshop:   
+* [🗒️ Data Set: ddddd ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%201:%20Analizando%20Ping%C3%BCinos%20de%20la%20Ant%C3%A1rtida 'penguins_raw.csv')
+* 📅 Fecha: Martes 1 de noviembre
+* 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
+* 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
+---
+<!--
 ## Workshop #6: 
 ##Preparación y visualización de datos sobre el Dataset: Cosas en Reddit
 
