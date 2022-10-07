@@ -3,7 +3,7 @@
 
 ## Aprendiendo... Haciendo 🛠️ !
 
-Nos complece informarles que iniciamos nuestro temporada de estudio pero con Workshop (Talleres!), para los cuales estaremos trabajando en vivo, los expositores y los particpartes, para eso se estará:
+Nos complece informarles que iniciamos nuestro temporada de estudio pero con Workshop (Talleres!), para los cuales estaremos trabajando en vivo, los expositores y los participantes, para eso se estará:
 1. Compartiendo el Data Set de datos de la sesión
 2. El archivo de PowerBI ya hecho (en algunas ocaciones que lo ameriten)
 3. En la sesión se hace paso a paso y se explican los temas acorde al día. 
@@ -17,6 +17,8 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 -->
 
 📢 Tenemos 12 sesiones en esta primera temporada de talleres
+
+Los dataset se han tomado del sitio de Kaggle, son data set públicos. 
 
 ## Workshop #1: Preparando Motores 🥁 
 Preparación y visualización de datos
