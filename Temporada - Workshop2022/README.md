@@ -54,10 +54,10 @@ Preparación y visualización de datos:
 
 
 
-<!--
+
 ## Workshop #3: 
 ##Preparación y visualización de datos sobre el Dataset: Precios de diamantes
-
+<!--
 
 ## Workshop #4: 
 ##Preparación y visualización de datos sobre el Dataset: Análisis de datos de las estudiantes
