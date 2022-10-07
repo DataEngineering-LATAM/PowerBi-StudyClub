@@ -1,4 +1,4 @@
-## PowerBi-StudyClub
+## PowerBi-StudyClub 📊📈
 
 
 ## Sobre la comunidad de Data Engineering LATAM
