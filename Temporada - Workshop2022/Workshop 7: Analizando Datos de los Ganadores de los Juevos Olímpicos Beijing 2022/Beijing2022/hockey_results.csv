@@ -1,0 +1,59 @@
+location,event_stage,#event,teamH,scoreTH,teamA,scoreTA,event_status,time,event_url,discipline_code,teamH_code,teamA_code,sex
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#1,Czech Republic,3,China,1,Finished,2022-02-03T12:10:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000100-.htm,IHO,CZE,CHN,Women
+National Indoor Stadium,Women's Preliminary Round - Group A,#2,Canada,12,Switzerland,1,Finished,2022-02-03T12:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000100-.htm,IHO,CAN,SUI,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#3,Sweden,1,Japan,3,Finished,2022-02-03T16:40:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000200-.htm,IHO,SWE,JPN,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group A,#4,Finland,2,United States,5,Finished,2022-02-03T21:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000200-.htm,IHO,FIN,USA,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#5,Denmark,1,China,3,Finished,2022-02-04T12:10:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000300-.htm,IHO,DEN,CHN,Women
+National Indoor Stadium,Women's Preliminary Round - Group A,#6,ROC,5,Switzerland,2,Finished,2022-02-04T12:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000300-.htm,IHO,ROC,SUI,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group A,#7,Canada,11,Finland,1,Finished,2022-02-05T12:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000400-.htm,IHO,CAN,FIN,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#8,Japan,6,Denmark,2,Finished,2022-02-05T16:40:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000400-.htm,IHO,JPN,DEN,Women
+National Indoor Stadium,Women's Preliminary Round - Group B,#9,Czech Republic,3,Sweden,1,Finished,2022-02-05T16:40:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000500-.htm,IHO,CZE,SWE,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group A,#10,United States,5,ROC,0,Finished,2022-02-05T21:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000500-.htm,IHO,USA,ROC,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#11,China,2,Japan,1,Finished,2022-02-06T16:40:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000600-.htm,IHO,CHN,JPN,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group A,#12,Switzerland,0,United States,8,Finished,2022-02-06T21:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000600-.htm,IHO,SUI,USA,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group A,#13,ROC,1,Canada,6,Finished,2022-02-07T13:15:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000700-.htm,IHO,ROC,CAN,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#14,Denmark,3,Czech Republic,2,Finished,2022-02-07T16:40:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000700-.htm,IHO,DEN,CZE,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#15,China,1,Sweden,2,Finished,2022-02-07T21:10:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000800-.htm,IHO,CHN,SWE,Women
+National Indoor Stadium,Women's Preliminary Round - Group A,#16,Switzerland,3,Finland,2,Finished,2022-02-07T21:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000800-.htm,IHO,SUI,FIN,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group A,#17,United States,2,Canada,4,Finished,2022-02-08T12:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-000900-.htm,IHO,USA,CAN,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#18,Japan,3,Czech Republic,2,Finished,2022-02-08T16:40:00+08:00,../../../en/results/ice-hockey/results-women-gpb-000900-.htm,IHO,JPN,CZE,Women
+Wukesong Sports Centre,Women's Preliminary Round - Group B,#19,Sweden,3,Denmark,1,Finished,2022-02-08T21:10:00+08:00,../../../en/results/ice-hockey/results-women-gpb-001000-.htm,IHO,SWE,DEN,Women
+National Indoor Stadium,Women's Preliminary Round - Group A,#20,Finland,5,ROC,0,Finished,2022-02-08T21:10:00+08:00,../../../en/results/ice-hockey/results-women-gpa-001000-.htm,IHO,FIN,ROC,Women
+National Indoor Stadium,Men's Preliminary Round - Group B,#1,ROC,1,Switzerland,0,Finished,2022-02-09T16:40:00+08:00,../../../en/results/ice-hockey/results-men-gpb-000100-.htm,IHO,ROC,SUI,Men
+National Indoor Stadium,Men's Preliminary Round - Group B,#2,Czech Republic,1,Denmark,2,Finished,2022-02-09T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpb-000200-.htm,IHO,CZE,DEN,Men
+National Indoor Stadium,Men's Preliminary Round - Group C,#3,Sweden,3,Latvia,2,Finished,2022-02-10T12:10:00+08:00,../../../en/results/ice-hockey/results-men-gpc-000100-.htm,IHO,SWE,LAT,Men
+National Indoor Stadium,Men's Preliminary Round - Group C,#4,Finland,6,Slovakia,2,Finished,2022-02-10T16:40:00+08:00,../../../en/results/ice-hockey/results-men-gpc-000200-.htm,IHO,FIN,SVK,Men
+National Indoor Stadium,Men's Preliminary Round - Group A,#5,United States,8,China,0,Finished,2022-02-10T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpa-000100-.htm,IHO,USA,CHN,Men
+Wukesong Sports Centre,Men's Preliminary Round - Group A,#6,Canada,5,Germany,1,Finished,2022-02-10T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpa-000200-.htm,IHO,CAN,GER,Men
+National Indoor Stadium,Men's Preliminary Round - Group B,#7,Denmark,0,ROC,2,Finished,2022-02-11T12:10:00+08:00,../../../en/results/ice-hockey/results-men-gpb-000300-.htm,IHO,DEN,ROC,Men
+Wukesong Sports Centre,Women's Play-offs Quarterfinals,#21,United States,4,Czech Republic,1,Finished,2022-02-11T12:10:00+08:00,../../../en/results/ice-hockey/results-women-qfnl-000100-.htm,IHO,USA,CZE,Women
+National Indoor Stadium,Men's Preliminary Round - Group B,#8,Czech Republic,2,Switzerland,1,Finished,2022-02-11T16:40:00+08:00,../../../en/results/ice-hockey/results-men-gpb-000400-.htm,IHO,CZE,SUI,Men
+Wukesong Sports Centre,Men's Preliminary Round - Group C,#9,Sweden,4,Slovakia,1,Finished,2022-02-11T16:40:00+08:00,../../../en/results/ice-hockey/results-men-gpc-000300-.htm,IHO,SWE,SVK,Men
+National Indoor Stadium,Men's Preliminary Round - Group C,#10,Latvia,1,Finland,3,Finished,2022-02-11T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpc-000400-.htm,IHO,LAT,FIN,Men
+Wukesong Sports Centre,Women's Play-offs Quarterfinals,#22,Canada,11,Sweden,0,Finished,2022-02-11T21:10:00+08:00,../../../en/results/ice-hockey/results-women-qfnl-000200-.htm,IHO,CAN,SWE,Women
+National Indoor Stadium,Men's Preliminary Round - Group A,#11,Canada,2,United States,4,Finished,2022-02-12T12:10:00+08:00,../../../en/results/ice-hockey/results-men-gpa-000300-.htm,IHO,CAN,USA,Men
+Wukesong Sports Centre,Women's Play-offs Quarterfinals,#23,ROC,2,Switzerland,4,Finished,2022-02-12T12:10:00+08:00,../../../en/results/ice-hockey/results-women-qfnl-000300-.htm,IHO,ROC,SUI,Women
+National Indoor Stadium,Men's Preliminary Round - Group A,#12,Germany,3,China,2,Finished,2022-02-12T16:40:00+08:00,../../../en/results/ice-hockey/results-men-gpa-000400-.htm,IHO,GER,CHN,Men
+Wukesong Sports Centre,Women's Play-offs Quarterfinals,#24,Finland,7,Japan,1,Finished,2022-02-12T16:40:00+08:00,../../../en/results/ice-hockey/results-women-qfnl-000400-.htm,IHO,FIN,JPN,Women
+National Indoor Stadium,Men's Preliminary Round - Group B,#13,ROC,5,Czech Republic,6,Finished,2022-02-12T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpb-000500-.htm,IHO,ROC,CZE,Men
+Wukesong Sports Centre,Men's Preliminary Round - Group B,#14,Switzerland,3,Denmark,5,Finished,2022-02-12T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpb-000600-.htm,IHO,SUI,DEN,Men
+National Indoor Stadium,Men's Preliminary Round - Group C,#15,Slovakia,5,Latvia,2,Finished,2022-02-13T12:10:00+08:00,../../../en/results/ice-hockey/results-men-gpc-000500-.htm,IHO,SVK,LAT,Men
+National Indoor Stadium,Men's Preliminary Round - Group C,#16,Finland,4,Sweden,3,Finished,2022-02-13T16:40:00+08:00,../../../en/results/ice-hockey/results-men-gpc-000600-.htm,IHO,FIN,SWE,Men
+National Indoor Stadium,Men's Preliminary Round - Group A,#17,China,0,Canada,5,Finished,2022-02-13T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpa-000500-.htm,IHO,CHN,CAN,Men
+Wukesong Sports Centre,Men's Preliminary Round - Group A,#18,United States,3,Germany,2,Finished,2022-02-13T21:10:00+08:00,../../../en/results/ice-hockey/results-men-gpa-000600-.htm,IHO,USA,GER,Men
+Wukesong Sports Centre,Women's Play-offs Semifinals,#25,Canada,10,Switzerland,3,Finished,2022-02-14T12:10:00+08:00,../../../en/results/ice-hockey/results-women-sfnl-000100-.htm,IHO,CAN,SUI,Women
+Wukesong Sports Centre,Women's Play-offs Semifinals,#26,United States,4,Finland,1,Finished,2022-02-14T21:10:00+08:00,../../../en/results/ice-hockey/results-women-sfnl-000200-.htm,IHO,USA,FIN,Women
+National Indoor Stadium,Men's Qualification Play-off,#19,Slovakia,4,Germany,0,Finished,2022-02-15T12:10:00+08:00,../../../en/results/ice-hockey/results-men-8fnl-000100-.htm,IHO,SVK,GER,Men
+Wukesong Sports Centre,Men's Qualification Play-off,#20,Denmark,3,Latvia,2,Finished,2022-02-15T12:10:00+08:00,../../../en/results/ice-hockey/results-men-8fnl-000200-.htm,IHO,DEN,LAT,Men
+National Indoor Stadium,Men's Qualification Play-off,#21,Czech Republic,2,Switzerland,4,Finished,2022-02-15T16:40:00+08:00,../../../en/results/ice-hockey/results-men-8fnl-000300-.htm,IHO,CZE,SUI,Men
+National Indoor Stadium,Men's Qualification Play-off,#22,Canada,7,China,2,Finished,2022-02-15T21:10:00+08:00,../../../en/results/ice-hockey/results-men-8fnl-000400-.htm,IHO,CAN,CHN,Men
+National Indoor Stadium,Men's Play-offs Quarterfinals,#23,United States,2,Slovakia,3,Finished,2022-02-16T12:10:00+08:00,../../../en/results/ice-hockey/results-men-qfnl-000100-.htm,IHO,USA,SVK,Men
+Wukesong Sports Centre,Men's Play-offs Quarterfinals,#24,ROC,3,Denmark,1,Finished,2022-02-16T14:00:00+08:00,../../../en/results/ice-hockey/results-men-qfnl-000200-.htm,IHO,ROC,DEN,Men
+National Indoor Stadium,Men's Play-offs Quarterfinals,#25,Finland,5,Switzerland,1,Finished,2022-02-16T16:40:00+08:00,../../../en/results/ice-hockey/results-men-qfnl-000300-.htm,IHO,FIN,SUI,Men
+Wukesong Sports Centre,Women's Bronze Medal Game,#27,Finland,4,Switzerland,0,Finished,2022-02-16T19:30:00+08:00,../../../en/results/ice-hockey/results-women-fnl-000200-.htm,IHO,FIN,SUI,Women
+National Indoor Stadium,Men's Play-offs Quarterfinals,#26,Sweden,2,Canada,0,Finished,2022-02-16T21:30:00+08:00,../../../en/results/ice-hockey/results-men-qfnl-000400-.htm,IHO,SWE,CAN,Men
+Wukesong Sports Centre,Women's Gold Medal Game,#28,Canada,3,United States,2,Finished,2022-02-17T12:10:00+08:00,../../../en/results/ice-hockey/results-women-fnl-000100-.htm,IHO,CAN,USA,Women
+National Indoor Stadium,Men's Play-offs Semifinals,#27,Finland,2,Slovakia,0,Finished,2022-02-18T12:10:00+08:00,../../../en/results/ice-hockey/results-men-sfnl-000100-.htm,IHO,FIN,SVK,Men
+National Indoor Stadium,Men's Play-offs Semifinals,#28,ROC,2,Sweden,1,Finished,2022-02-18T21:10:00+08:00,../../../en/results/ice-hockey/results-men-sfnl-000200-.htm,IHO,ROC,SWE,Men
+National Indoor Stadium,Men's Bronze Medal Game,#29,Sweden,0,Slovakia,4,Finished,2022-02-19T21:10:00+08:00,../../../en/results/ice-hockey/results-men-fnl-000200-.htm,IHO,SWE,SVK,Men
+National Indoor Stadium,Men's Gold Medal Game,#30,Finland,2,ROC,1,Finished,2022-02-20T12:10:00+08:00,../../../en/results/ice-hockey/results-men-fnl-000100-.htm,IHO,FIN,ROC,Men
