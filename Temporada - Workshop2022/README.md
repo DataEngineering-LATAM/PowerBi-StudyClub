@@ -56,19 +56,20 @@ Preparación y visualización de datos
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
- <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Airbnb.png" width="300">
+  <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Airbnb.png" width="300">
 
 ---
 
 ## Workshop #4: 
-##Preparación y visualización de datos sobre el Dataset: Precios de diamantes
+##Preparación y visualización de datos
 
-* 🛠️ Workshop: Analizando datos sobre Precios de Diamantes 💎💲💎
-* [🗒️ Data Set: Diamonds Prices 2022 ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%204:%20Analizando%20datos%20de%20Diamantes 'Diamonds Prices2022.csv')
-* 📅 Fecha: Martes 18 de octubre
+* 🛠️ Workshop: Analizando datos sobre las Ventas en Máquinas expendedoras  💲🍬🍫💲🍪
+* [🗒️ Data Set: Vending Machines Sales ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%204:%20Analizando%20datos%20de%20Vending%20Machines%20Sales 'Vending Machines Sales')
+* 📅 Fecha: Martes 25 de octubre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
+  <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Vending%20Machines%20Sales.png" width="300">
 ---
 
 ## Workshop #5: 
@@ -104,6 +105,17 @@ Preparación y visualización de datos
 
 ## Workshop #8: 
 ##Preparación y visualización de datos sobre el Dataset: xxxx
+
+## Workshop #4: 
+##Preparación y visualización de datos sobre el Dataset: Precios de diamantes
+
+* 🛠️ Workshop: Analizando datos sobre Precios de Diamantes 💎💲💎
+* [🗒️ Data Set: Diamonds Prices 2022 ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%204:%20Analizando%20datos%20de%20Diamantes 'Diamonds Prices2022.csv')
+* 📅 Fecha: Martes 18 de octubre
+* 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
+* 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+
 -->
 
 <!--
