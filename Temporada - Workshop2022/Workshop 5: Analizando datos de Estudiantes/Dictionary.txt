@@ -1,0 +1,22 @@
+Students_dictionary
+Basic data like:
+
+ID: Student ID
+class: categorical, initially students were divided into 2 classes, yet teachers suspect that of different classes students may performance significant differently.
+gender: student gender (female / male)
+race: categorical and censored
+GPA: real numbers, float
+Some teachers assume that scores of math curriculums can represent one's likelihood perfectly:
+
+Algebra: real numbers, Advanced Algebra
+……
+Some assume that background of students can affect their choices and likelihood significantly, which are all censored as:
+from1: students' home locations
+from2: a probably bad indicator for preference on mathematics
+from 3: how did students apply for this university (undergraduate)
+from4: a probably bad indicator for family background. 0 with more wealth, 4 with more poverty
+The final indicator y:
+
+0, one fails to apply for the graduate school, who may apply again or search jobs in the future
+1, success, inland
+2, success, abroad
