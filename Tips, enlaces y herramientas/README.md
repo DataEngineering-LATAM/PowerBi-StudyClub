@@ -23,3 +23,7 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 
 ## Vínculos a páginas que detallan cómo seleccionar los colores o paleta de colores para nuestras visualizaciones y Dashboard 🟠🟡🟢🔵🟣🟤⚫⚪🔴  
 1. [🟠 ¿Qué considerar cuando escoges los colores para tu visualización?](https://blog.datawrapper.de/colors/ 'Colores para tu Visualización')
+
+2. [🟡 Adobe Color - Paleta de colores](https://color.adobe.com/es/create/color-wheel 'Paleta de Colores') 
+
+3. [🟢 Google - Obtenr la paleta de colores basado en una imágen](https://artsexperiments.withgoogle.com/artpalette/images 'Patrón de colores')
