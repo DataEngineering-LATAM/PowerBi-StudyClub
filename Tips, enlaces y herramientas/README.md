@@ -34,3 +34,12 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 4. [🔵 Generador de Colores: coolors.co](https://coolors.co/ 'Generador de Colores')
 
 5. [🟣 Tonos ya creados (cálidos)](https://www.design-seeds.com/ 'Tonos')
+
+6. [🟤 Generador de Colores](https://omatsuri.app/gradient-generator 'Generador de Colores') 
+
+7. [⚫ Paleta de Colores](https://mycolor.space/?hex=%23845EC2&sub=1&s=09 'Paleta de Colores')
+
+
+
+##Páginas con información importante
+1. [Sitio: Storytelling with data](https://www.storytellingwithdata.com/blog 'Storytelling With Data')
