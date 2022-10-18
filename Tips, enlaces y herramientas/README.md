@@ -27,5 +27,10 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 1. [🟠 ¿Qué considerar cuando escoges los colores para tu visualización?](https://blog.datawrapper.de/colors/ 'Colores para tu Visualización')
 
 2. [🟡 Adobe Color - Paleta de colores](https://color.adobe.com/es/create/color-wheel 'Paleta de Colores') 
+   >  Adobe Color cargas una imagen y extrae la paleta de colores para tu visualización.
 
 3. [🟢 Google - Obtenr la paleta de colores basado en una imágen](https://artsexperiments.withgoogle.com/artpalette/images 'Patrón de colores')
+
+4. [🔵 Generador de Colores: coolors.co](https://coolors.co/ 'Generador de Colores')
+
+5. [🟣 Tonos ya creados (cálidos)](https://www.design-seeds.com/ 'Tonos')
