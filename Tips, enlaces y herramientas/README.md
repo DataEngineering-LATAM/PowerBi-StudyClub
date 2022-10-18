@@ -20,6 +20,8 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 
 5. [Poster de Visualizaciones](https://raw.githubusercontent.com/Financial-Times/chart-doctor/main/visual-vocabulary/poster.png 'Poster')
 
+6. [The Extreme Presentation™ Method](https://extremepresentation.com/design/7-charts/  'The Extreme Presentation™ Method')
+
 
 
 ---
