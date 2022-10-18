@@ -22,7 +22,7 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 
 
 
-
+---
 ## Vínculos a páginas que detallan cómo seleccionar los colores o paleta de colores para nuestras visualizaciones y Dashboard 🟠🟡🟢🔵🟣🟤⚫⚪🔴  
 1. [🟠 ¿Qué considerar cuando escoges los colores para tu visualización?](https://blog.datawrapper.de/colors/ 'Colores para tu Visualización')
 
@@ -40,6 +40,6 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 7. [⚫ Paleta de Colores](https://mycolor.space/?hex=%23845EC2&sub=1&s=09 'Paleta de Colores')
 
 
-
-##Páginas con información importante
+---
+## Páginas con información importante
 1. [Sitio: Storytelling with data](https://www.storytellingwithdata.com/blog 'Storytelling With Data')
