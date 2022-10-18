@@ -18,6 +18,8 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 
 4. [📘📊🛠️ The Visualization Universe](http://visualizationuniverse.com/charts/ 'The Visualization Universe')
 
+5. [Poster de Visualizaciones](https://raw.githubusercontent.com/Financial-Times/chart-doctor/main/visual-vocabulary/poster.png 'Poster')
+
 
 
 
