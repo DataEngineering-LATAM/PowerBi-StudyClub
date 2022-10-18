@@ -20,7 +20,7 @@ Nos complece informarles que iniciamos nuestro temporada de estudio pero con Wor
 
 Los dataset se han tomado del sitio de Kaggle, son data set públicos. 
 
-## Workshop #1: Preparando Motores 🥁 
+## Workshop #1: Pingüinos de la Antártida
 Preparación y visualización de datos
 
 * 🛠️ Workshop:  Analizando Pingüinos de la Antártida 🐧 🐧 🐧 
@@ -34,7 +34,7 @@ Preparación y visualización de datos
 ---
 
 
-## Workshop #2: 
+## Workshop #2:  Bike Sales
 ##Preparación y visualización de datos
 
 * 🛠️ Workshop: Analizando datos del dataset: Bike Sales 🚴🚲🚴
@@ -47,7 +47,7 @@ Preparación y visualización de datos
 
 ---
 
-## Workshop #3: 
+## Workshop #3: Airbnb
 ##Preparación y visualización de datos
 
 * 🛠️ Workshop: Analizando datos de Airbnb  🕌 🏰 🏩
@@ -60,7 +60,7 @@ Preparación y visualización de datos
 
 ---
 
-## Workshop #4: 
+## Workshop #4: Ventas en Máquinas expendedoras
 ##Preparación y visualización de datos
 
 * 🛠️ Workshop: Analizando datos sobre las Ventas en Máquinas expendedoras  💲🍬🍫💲🍪
@@ -72,7 +72,7 @@ Preparación y visualización de datos
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Vending%20Machines%20Sales.png" width="300">
 ---
 
-## Workshop #5: 
+## Workshop #5: Estudiantes
 ##Preparación y visualización de datos 
 
 * 🛠️ Workshop: Analizando datos de estudiantes 👲📚📘
