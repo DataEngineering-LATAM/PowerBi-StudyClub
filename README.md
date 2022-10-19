@@ -6,7 +6,7 @@
 
 
 Mayor información aquí: [Telegram](https://t.me/PowerBIStudyClub 'Telegram')
-
+![Image text](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG)
 # 
 
 ## Nueva Temporada sobre Workshop 🛠️ - Septiembre 2022 
