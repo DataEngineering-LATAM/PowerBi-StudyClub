@@ -6,8 +6,10 @@
 
 
 Mayor información aquí: [Telegram](https://t.me/PowerBIStudyClub 'Telegram')
-![Image text](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG)
-# 
+
+
+<img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/power%20bi.PNG" width="300">
+
 
 ## Nueva Temporada sobre Workshop 🛠️ - Septiembre 2022 
 La nueva temporada de sesiones del Grupo de estudo de Power BI serán talleres prácticos para añadir conocimiento para aprender Power BI desde la base. Estos talleres combinan la parte teoríca y también la parte práctica (carga, limpieza de datos y la visualización), para aprender como obtener valiosa información a partir de los datos. 
