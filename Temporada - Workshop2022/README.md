@@ -1,6 +1,6 @@
 # Power BI- Temporada de Workshop 2022 ⚡️
 
-## Aprendiendo... Haciendo 🛠️ !
+## 🛠️ Aprendiendo... Haciendo!
 
 Nos complece informarles que iniciamos nuestro temporada de estudio pero con Workshop (Talleres!), para los cuales estaremos trabajando en vivo, los expositores y los participantes, para eso se estará:
 1. Compartiendo el Data Set de datos de la sesión
