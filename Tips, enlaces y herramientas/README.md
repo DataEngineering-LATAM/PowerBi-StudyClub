@@ -22,6 +22,8 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 
 6. [The Extreme Presentation™ Method](https://extremepresentation.com/design/7-charts/  'The Extreme Presentation™ Method')
 
+7. [Flowing Data](https://flowingdata.com/chart-types/ 'Flowing Data')
+
 
 
 ---
@@ -45,3 +47,6 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 ---
 ## Páginas con información importante
 1. [Sitio: Storytelling with data](https://www.storytellingwithdata.com/blog 'Storytelling With Data')
+
+2. [The Functional Art](http://www.thefunctionalart.com/  'The Functional Art')
+   > The Functional Art es un blog sobre el diseño de la Visualización y Gráficos de Información con ejemplos. 
