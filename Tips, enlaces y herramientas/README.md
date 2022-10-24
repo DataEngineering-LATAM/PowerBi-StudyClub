@@ -7,6 +7,8 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 3. ¿Dónde podemos encontrar íconos para agregar a mi Dashboard? 
 4. ¿Qué herramientas externas son compatibles con Power BI?
 
+<!-- <img src=" " width="500"> -->
+
 
 ## Vínculos a páginas que detallan cómo seleccionar un gráfico correcto 
 
@@ -14,7 +16,7 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Tips%2C%20enlaces%20y%20herramientas/images/datavizcatalogue.PNG" width="500">
 
 
-2. [📈 From Data to Viz](https://www.data-to-viz.com/ 'From Data to Viz')
+2. [📈 From Data to Viz](https://www.data-to-viz.com/ 'From Data to Viz') 
 <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Tips%2C%20enlaces%20y%20herramientas/images/data-to-viz.PNG" width="500">
 
 3. [📉 Data Viz Project ](https://datavizproject.com/# 'Data Viz Project')
@@ -62,4 +64,3 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
    > Activo desde 2005, el blog Junk Charts de Kaiser Fung contiene más de 1000 críticas de visualizaciones de datos publicadas. La mayoría de las publicaciones de blog presentan cambios de imagen, que hoy en día se han convertido en un estándar en los blogs de visualización de datos.
 
 5. [The Extreme Presentation™ Method](https://extremepresentation.com/design/7-charts/  'The Extreme Presentation™ Method')
-<img src=" " width="500">
