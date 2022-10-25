@@ -42,7 +42,7 @@ Preparación y visualización de datos
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Workshop_2.png" width="300">
- 
+ - [x] Video Done!  [Video en Youtube]( https://www.youtube.com/watch?v=60fcgi70gXA 'Video')
 ---
 
 ## Workshop #3: Airbnb
@@ -56,7 +56,9 @@ Preparación y visualización de datos
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Airbnb.png" width="300">
+ 
 
+ - [x] Video Done!  [Video en Youtube](https://www.youtube.com/watch?v=5GDMbktxHr0 'Video')
 ---
 
 ## Workshop #4: Ventas en Máquinas expendedoras
@@ -80,6 +82,8 @@ Preparación y visualización de datos
 * 📅 Fecha: Martes 25 de octubre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+  <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Students%20data.png" width="300">
 
 ---
 
