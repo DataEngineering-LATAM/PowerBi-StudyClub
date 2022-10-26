@@ -32,7 +32,8 @@ Estamos recopilando en una sola ubicación todos los links de páginas que conti
 6. [Flowing Data](https://flowingdata.com/chart-types/ 'Flowing Data')
 <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Tips%2C%20enlaces%20y%20herramientas/images/flowingdata.PNG" width="500">
 
-
+7. [sqlbi](https://www.sqlbi.com/ref/power-bi-visuals-reference/ 'sqlbi')
+<img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Tips%2C%20enlaces%20y%20herramientas/images/sqlbi.PNG" width="500">
 
 ---
 ## Vínculos a páginas que detallan cómo seleccionar los colores o paleta de colores para nuestras visualizaciones y Dashboard 🟠🟡🟢🔵🟣🟤⚫⚪🔴  
