@@ -63,7 +63,6 @@ Preparación y visualización de datos
 
 ## Workshop #4: Ventas en Máquinas expendedoras
 Preparación y visualización de datos
-- [ ] Done!  
 
 * 🛠️ Workshop: Analizando datos sobre las Ventas en Máquinas expendedoras  💲🍬🍫💲🍪
 * [🗒️ Data Set: Vending Machines Sales ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%204:%20Analizando%20datos%20de%20Vending%20Machines%20Sales 'Vending Machines Sales')
@@ -88,7 +87,7 @@ Preparación y visualización de datos
 ---
 
 ## Workshop #6: 
-##Preparación y visualización de datos
+Preparación y visualización de datos
 
 * 🛠️ Workshop:  Analizando datos sobre Carros Clásicos  🚙🚗🚙 
 * [🗒️ Data Set: Carros Clásicos ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%206:%20Analizando%20datos%20de%20Carros%20Cl%C3%A1sicos 'cars.csv')
@@ -97,9 +96,27 @@ Preparación y visualización de datos
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/classic%20Cars.png" width="300">
-
-
+  
 ---
+## Workshop #7: 
+Preparación y visualización de datos 
+
+* 🛠️ Workshop:  Analizando datos sobre los ganadores de los Juegos Olimpínicos de Beijing 2022
+* [🗒️ Data Set: Juegos Olímpicos de Beijing 2022 ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%207:%20Analizando%20Datos%20de%20los%20Ganadores%20de%20los%20Juevos%20Ol%C3%ADmpicos%20Beijing%202022 'Beijing 2022')
+* 📅 Fecha: Martes 15 de noviembre
+* 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
+* 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+## Workshop #8: 
+Preparación y visualización de datos 
+
+* 🛠️ Workshop:  Analizando datos sobre el Dataset Financiación Startups 🚀💲🚀
+* [🗒️ Data Set: Financiación Startups ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%208:%20Analizando%20datos%20de%20Startups 'Startups.csv')
+* 📅 Fecha: Martes 22 de noviembre
+* 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
+* 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+
 <!--
 
 🚴 🕌 🏰 🏩 🚲 🚙 🚗 ⛷️ 🏌️ 🤼 💍 🚀 🚀 📊 📉 📈 🗓️ 💲 💹 📊 🕯️ 💡 🚍 💎 🚿 📞 👲 📚 📙 📘 🍽️ 🍜 🍲
