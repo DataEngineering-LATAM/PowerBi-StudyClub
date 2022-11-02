@@ -86,7 +86,7 @@ Preparación y visualización de datos
 
 ---
 
-## Workshop #6: 
+## Workshop #6: Carros Clásicos
 Preparación y visualización de datos
 
 * 🛠️ Workshop:  Analizando datos sobre Carros Clásicos  🚙🚗🚙 
@@ -98,7 +98,7 @@ Preparación y visualización de datos
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/classic%20Cars.png" width="300">
   
 ---
-## Workshop #7: 
+## Workshop #7: Juegos Beijing 2022
 Preparación y visualización de datos 
 
 * 🛠️ Workshop:  Analizando datos sobre los ganadores de los Juegos Olimpínicos de Beijing 2022
@@ -107,7 +107,7 @@ Preparación y visualización de datos
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
-## Workshop #8: 
+## Workshop #8: Financiación de los Startups
 Preparación y visualización de datos 
 
 * 🛠️ Workshop:  Analizando datos sobre el Dataset Financiación Startups 🚀💲🚀
