@@ -79,7 +79,7 @@ Preparación y visualización de datos
 
 * 🛠️ Workshop: Analizando datos de estudiantes 👲📚📘
 * [🗒️ Data Set: Students data ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%205:%20Analizando%20datos%20de%20Estudiantes 'Students data.csv')
-* 📅 Fecha: Martes 25 de octubre
+* 📅 Fecha: Martes 1 de Noviembre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
@@ -92,9 +92,12 @@ Preparación y visualización de datos
 
 * 🛠️ Workshop:  Analizando datos sobre Carros Clásicos  🚙🚗🚙 
 * [🗒️ Data Set: Carros Clásicos ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%206:%20Analizando%20datos%20de%20Carros%20Cl%C3%A1sicos 'cars.csv')
-* 📅 Fecha: Martes 1 de noviembre
+* 📅 Fecha: Martes 8 de noviembre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+  <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/classic%20Cars.png" width="300">
+
 
 ---
 <!--
