@@ -121,7 +121,9 @@ Preparación y visualización de datos
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
-
+  <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/StarUp_funding.png" width="300">
+  
+ 
 <!--
 
 🚴 🕌 🏰 🏩 🚲 🚙 🚗 ⛷️ 🏌️ 🤼 💍 🚀 🚀 📊 📉 📈 🗓️ 💲 💹 📊 🕯️ 💡 🚍 💎 🚿 📞 👲 📚 📙 📘 🍽️ 🍜 🍲
