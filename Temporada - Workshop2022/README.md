@@ -101,11 +101,16 @@ Preparación y visualización de datos
 ## Workshop #7: Juegos Beijing 2022
 Preparación y visualización de datos 
 
-* 🛠️ Workshop:  Analizando datos sobre los ganadores de los Juegos Olimpínicos de Beijing 2022
+* 🛠️ Workshop:  Analizando datos sobre los ganadores de los Juegos Olimpínicos de Beijing 2022 🏋️ ⛹️ 🤺 
 * [🗒️ Data Set: Juegos Olímpicos de Beijing 2022 ](https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/tree/main/Temporada%20-%20Workshop2022/Workshop%207:%20Analizando%20Datos%20de%20los%20Ganadores%20de%20los%20Juevos%20Ol%C3%ADmpicos%20Beijing%202022 'Beijing 2022')
 * 📅 Fecha: Martes 15 de noviembre
 * 🕙 Hora: 20:00 Lima, Bogotá, Quito (GMT-5)
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
+
+  <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/beijing.png" width="300">
+  
+---
+
 
 ## Workshop #8: Financiación de los Startups
 Preparación y visualización de datos 
