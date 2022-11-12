@@ -71,6 +71,8 @@ Preparación y visualización de datos
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Vending%20Machines%20Sales.png" width="300">
+
+- [x] Video Done!  [Video en Youtube](https://www.youtube.com/watch?v=gOYqcod0A3A&list=PLdxuOh58KNA5ozZZETAXlLcbaLOd2d1zf&index=29 'Video')
 ---
 
 ## Workshop #5: Estudiantes
@@ -83,6 +85,8 @@ Preparación y visualización de datos
 * 👉 Inscríbete en: http://bit.ly/powerbi_DEL
 
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/Students%20data.png" width="300">
+
+- [x] Video Done!  [Video en Youtube](https://www.youtube.com/watch?v=zpTsPdK44nw&list=PLdxuOh58KNA5ozZZETAXlLcbaLOd2d1zf&index=30 'Video')
 
 ---
 
@@ -97,6 +101,7 @@ Preparación y visualización de datos
 
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/classic%20Cars.png" width="300">
   
+  - [x] Video Done!  [Video en Youtube](https://www.youtube.com/watch?v=5LzDgzREVaA&list=PLdxuOh58KNA5ozZZETAXlLcbaLOd2d1zf&index=31 'Video')
 ---
 ## Workshop #7: Juegos Beijing 2022
 Preparación y visualización de datos 
@@ -109,6 +114,9 @@ Preparación y visualización de datos
 
   <img src="https://github.com/DataEngineering-LATAM/PowerBi-StudyClub/blob/main/Temporada%20-%20Workshop2022/images/beijing.png" width="300">
   
+  
+
+
 ---
 
 
