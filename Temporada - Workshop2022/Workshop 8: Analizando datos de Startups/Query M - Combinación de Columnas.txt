@@ -1,0 +1,48 @@
+let
+    Origen = Folder.Files("C:\IROJAS\POWER BI\2022 - DEL - WORKSHOP\StarUp_funding\StartUp_FundingScrappingData"),
+    #"Columnas quitadas" = Table.RemoveColumns(Origen,{"Extension", "Date accessed", "Date modified", "Date created", "Attributes", "Folder Path"}),
+    #"Personalizada agregada" = Table.AddColumn(#"Columnas quitadas", "Personalizado", each Csv.Document([Content])),
+    #"Personalizada agregada1" = Table.AddColumn(#"Personalizada agregada", "Personalizado.1", each Table.PromoteHeaders([Personalizado])),
+    #"Se expandió Personalizado.1" = Table.ExpandTableColumn(#"Personalizada agregada1", "Personalizado.1", {"Sr. No.", "Date(dd/mm/yyyy)", "Startup Name", "Industry Vertical", "City / Location", "Investors’ Name", "InvestmentType", "Amount (in USD)", "Remarks", "Industry/ Vertical", "Sub-Vertical", "Invest-mentType", "Date", "Industry/Vertical", "City", "Investor Name", "Investment Type", "Amount(in USD)", "", "Founding Date", "Founders", "Investors", "Investment Stage", "0", "1", "2", "3", "4", "5", "6", "7", "8"}, {"Sr. No.", "Date(dd/mm/yyyy)", "Startup Name", "Industry Vertical", "City / Location", "Investors’ Name", "InvestmentType", "Amount (in USD)", "Remarks", "Industry/ Vertical", "Sub-Vertical", "Invest-mentType", "Date", "Industry/Vertical", "City", "Investor Name", "Investment Type", "Amount(in USD)", "Columna1", "Founding Date", "Founders", "Investors", "Investment Stage", "0", "1", "2", "3", "4", "5", "6", "7", "8"}),
+
+    //Creacion de columnas nuevas 
+    Codigo = Table.CombineColumns (
+            #"Se expandió Personalizado.1",
+            {"Sr. No.", "1"}, Combiner.CombineTextByDelimiter(""),"Codigo"
+    ),
+    Fecha = Table.CombineColumns(
+        #"Codigo",
+        {"Date(dd/mm/yyyy)", "Date"}, Combiner.CombineTextByDelimiter(""), "Fecha"
+    ),
+    StartupNom = Table.CombineColumns(
+        Fecha,
+        {"Startup Name","0"}, Combiner.CombineTextByDelimiter(""), "StartupNom"
+    ),
+
+    Industria = Table.CombineColumns(
+        StartupNom,
+        {"Industry Vertical","3","Industry/Vertical","Industry/ Vertical"}, Combiner.CombineTextByDelimiter(""), "Industria"
+    ),
+    Ciudad = Table.CombineColumns(
+        Industria,
+        {"City / Location","2","City"}, Combiner.CombineTextByDelimiter(""), "Ciudad"
+    ),
+
+    Inversor = Table.CombineColumns(
+        Ciudad,
+        {"Investors’ Name","6","Investors","Investor Name"}, Combiner.CombineTextByDelimiter(""), "Inversor"
+    ),
+    TipoInversion = Table.CombineColumns(
+        Inversor,
+        {"InvestmentType","Invest-mentType","8","Investment Stage","Investment Type"}, Combiner.CombineTextByDelimiter(""), "TipoInversion"
+    ),
+
+    Monto = Table.CombineColumns(
+        TipoInversion,
+        {"Amount (in USD)","7","Amount(in USD)"}, Combiner.CombineTextByDelimiter(""), "Monto"
+    )
+
+
+
+in
+    Monto
